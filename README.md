@@ -64,11 +64,11 @@ Example : The application will have an uptime of 99.9% during the next year.
 *TODO:* It is important to know why we want to measure certain metrics for our customer. Describe in detail 5 metrics to measure these SLIs. 
 The five metrics are : 
 
-Uptime : Time a service is active
-Latency : Response time of requests
-Errors : 100% - Uptime
-Traffic : Network capacity or average bandwidth
-CPU saturation : Total connected devices consumption 
+👉️ Uptime : Time a service is active
+👉️ Latency : Response time of requests
+👉️ Errors : 100% - Uptime
+👉️ Traffic : Network capacity or average bandwidth
+👉️ CPU saturation : Total connected devices consumption 
 
 ##### Create a Dashboard to measure our SLIs
 *TODO:* Create a dashboard to measure the uptime of the frontend and backend services We will also want to measure to measure 40x and 50x errors. Create a dashboard that show these values over a 24 hour period and take a screenshot.
