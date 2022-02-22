@@ -48,13 +48,13 @@ I will create dashboards that use multiple graphs to monitor our sample applicat
 *TODO:* Describe, in your own words, what the SLIs are, based on an SLO of *monthly uptime* and *request response time*.
 
 
-####### SLIs 
+###### SLIs 
 
 SLIs stand for Service Level Indicators and are specific metrics used to measure the performance of a service. 
 
 Example : The average time taken to return a request during the month of May was 194 ms.
 
-####### SLO
+###### SLO
 
 An SLO stands for Service Level Objective and is a measurable goal set by the SRE team to ensure a standard level of performance during a specified period of time. 
 
